@@ -1,5 +1,10 @@
 out/
 *~
+.gradle/
 .idea/
+gradle/
 build/
-kattis.iml
+src/main/resources/.DS_Store
+
+gradlew
+gradlew.bat
