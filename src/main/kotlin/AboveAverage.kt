@@ -1,5 +1,3 @@
-import java.text.DecimalFormat
-
 fun main() {
     val testCases = readLine()!!.toInt()
 
