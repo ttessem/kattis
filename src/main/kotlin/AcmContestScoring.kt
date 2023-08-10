@@ -3,8 +3,8 @@ fun main(){
     var score = 0
     var time = 0
 
-    var solved = mutableSetOf<String>()
-    var failedAttempts = mutableMapOf<String,Int>()
+    val solved = mutableSetOf<String>()
+    val failedAttempts = mutableMapOf<String,Int>()
 
     var input = readln()
     while (input != "-1"){
